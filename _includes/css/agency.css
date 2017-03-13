@@ -367,10 +367,13 @@ section h3.section-subheading {
     text-transform: none;
 }
 
-.service-heading:hover  {
+.fa-inverse:hover  {
 	color: #DD6400;
 }
 
+.service-heading > a:hover{
+	color: #DD6400;
+}
 
 #portfolio .portfolio-item {
     right: 0;
