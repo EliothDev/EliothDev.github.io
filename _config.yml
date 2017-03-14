@@ -1,6 +1,9 @@
 url: http://paris2050.elioth.com/
 #baseurl: /
 
+# Google services
+google_analytics: UA-93619751-1
+
 # Site settings
 title: Paris change d'ère
 email: paris2050@elioth.fr
