@@ -16,6 +16,7 @@ people:
 - name: Elioth (Groupe Egis) 
   pic: 1
   position: mandataire du groupement, est une équipe multidisciplinaire composée d’ingénieurs, d’architectes, de designers et de datascentists, intervenant en R&D et en maîtrise d’œuvre d’innovation bas carbone, filiale du groupe Egis 
+  position_en: lead of the group, Elioth is a multidisciplinary team of engineers, architects, designers, graphic designers and datascientists, involved in consulting, innovative design and low carbon strategy, a subsidiary of Egis group
   social:
     - title: twitter
       url: https://twitter.com/elioth
@@ -27,7 +28,8 @@ people:
 - name: Les équipes Conseil d'Egis
   pic: 2
   position: accompagnent les décideurs des territoires et de l’immobilier, depuis la structuration de leurs stratégies d’intervention, et jusqu’à la mise en œuvre effective de leurs projets 
-  social:
+  position_en: assists project owners by providing specific services such as audits, master plans, valuation studies, and more.
+  social: 
     - title: twitter
       url: https://twitter.com/egis
     - title: link
@@ -36,6 +38,7 @@ people:
 - name: Quattrolibri
   pic: 3
   position: société de conseil en stratégies bas carbone, qui intervient auprès de collectivités ou d’entreprises, et a mené des recherches sur les villes post carbone
+  position_en: Independent low carbon strategy consultancy, which has published several research reports on the post carbon transition
   social:
     - title: twitter
       url: https://twitter.com/juliendossier
@@ -45,6 +48,7 @@ people:
 - name: Mana
   pic: 4
   position: bureau d’études et de conseil sociologiques spécialisé sur les questions relatives aux modes de vie, aux usages, aux imaginaires de la ville et des territoires
+  position_en: Studies and sociological consultancy office specializing in questions related to the lifestyles, uses, imaginary of the city and the territories
   social:
     - title: link
       url: http://www.manafactory.fr
