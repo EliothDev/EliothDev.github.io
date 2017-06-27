@@ -1,0 +1,14 @@
+---
+title: Summary by bars
+subtitle: Carbon Assessment of Paris in 2030 and 2050
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: barres.png
+thumbnail: barres-thumbnail.png
+alt: Summary by bars
+project-date: April 2014
+client: Elioth
+category: Courbe
+description: Detailed item breakdown of city of Paris' carbon assessment in 2030 and 2050 without personal travel by plane. Grey is 2004 carbon assessment.
+---

@@ -1,0 +1,14 @@
+---
+title: Sketches
+subtitle: Four sketches from Diane Berg
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: DianeBerg.jpg
+thumbnail: DianeBerg-thumbnail.jpg
+alt: Diane Berg
+project-date: April 2014
+client: Elioth
+category: Elioth
+description: What could be the Paris of 2050? Diane Berg tried imagining representations of moments of life in Paris in 2050
+---
