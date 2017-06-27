@@ -1,6 +1,6 @@
 ---
 title: Summary by bars
-subtitle: Carbon Assessment of Paris in 2030 and 2050
+subtitle: Carbon footprint of Paris in 2030 and 2050
 layout: default
 modal-id: 1
 date: 2014-07-18
