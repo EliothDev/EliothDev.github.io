@@ -1,0 +1,14 @@
+---
+title: Families examples
+subtitle: Overview of two families
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: familles.png
+thumbnail: familles-thumbnail.png
+alt: Families examples
+project-date: 2016
+client: Elioth
+category: Elioth
+description: A summary of two families belonging to the same frame, High Carbon emitters families, by default.
+---

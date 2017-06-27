@@ -1,0 +1,14 @@
+---
+title: The Path
+subtitle: Paris' carbon footprint from 2004 to 2050
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: courbe_complete.png
+thumbnail: courbe_complete-thumbnail.png
+alt: The Path
+project-date: April 2014
+client: Elioth
+category: Elioth
+description: Paris' carbone footprint detailed path starting from 2004 to 2050. This path allows to achieve carbon neutrality.
+---
