@@ -9,8 +9,6 @@ thumbnail: resultat_simple-thumbnail.png
 alt: Key Figures
 project-date: April 2014
 client: Elioth
-category: Elioth
+categories: en
 description: Carbon neutrality is achieved by reducing our carbon footprint by 70% despite an increase in the population. Then it is necessary to compensate 10% thanks to renewable energies and finally to sequester the remaining 20%.
 ---
-
-Carbon neutrality is achieved by reducing our carbon footprint by 70% despite an increase in the population. Then it is necessary to compensate 10% thanks to renewable energies and finally to sequester the remaining 20%.

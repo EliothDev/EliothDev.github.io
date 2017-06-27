@@ -9,6 +9,6 @@ thumbnail: courbe_complete-thumbnail.png
 alt: The Path
 project-date: April 2014
 client: Elioth
-category: Elioth
+categories: en
 description: Paris' carbone footprint detailed path starting from 2004 to 2050. This path allows to achieve carbon neutrality.
 ---

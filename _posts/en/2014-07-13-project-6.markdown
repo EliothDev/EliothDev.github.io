@@ -9,6 +9,6 @@ thumbnail: famille_syn-thumbnail.png
 alt: Families overview
 project-date: April 2014
 client: Elioth
-category: Elioth
+categories: en
 description: Distribution and evolution of families into the map of "tenderness" according to their values and their practices. The first name represents the head of the family.
 ---

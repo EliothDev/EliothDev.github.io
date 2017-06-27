@@ -9,6 +9,6 @@ thumbnail: familles-thumbnail.png
 alt: Families examples
 project-date: 2016
 client: Elioth
-category: Elioth
+categories: en
 description: A summary of two families belonging to the same frame, High Carbon emitters families, by default.
 ---
