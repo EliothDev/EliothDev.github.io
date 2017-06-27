@@ -1,0 +1,14 @@
+---
+title: Les grands chiffres
+subtitle: Les 4 grands chiffres à retenir
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: resultat_simple.png
+thumbnail: resultat_simple-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Elioth
+categories: fr
+description: La neutralité s'obtient en réduisant notre bilan carbone de 70% malgré une augmentation de la population. Ensuite il faut compenser 10% grâce à des énergies renouvellables et enfin séquestrer les 20% restants.
+---

@@ -1,0 +1,14 @@
+---
+title: Exemple de familles
+subtitle: Deux familles résumées
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: familles.png
+thumbnail: familles-thumbnail.png
+alt: Exemple de familles
+project-date: 2016
+client: Elioth
+categories: fr
+description: Un résumé de deux familles appartenant au même cadrant, les familles émettrices, par default. 
+---
