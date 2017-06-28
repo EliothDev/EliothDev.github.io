@@ -1,6 +1,6 @@
 ---
 title: Families examples
-subtitle: Overview of two families
+subtitle: Overview of 2 families
 layout: default
 modal-id: 5
 date: 2014-07-14

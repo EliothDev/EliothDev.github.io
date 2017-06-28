@@ -1,6 +1,6 @@
 ---
 title: The Path
-subtitle: Paris' carbon footprint from 2004 to 2050
+subtitle: The path to neutrality
 layout: default
 modal-id: 2
 date: 2014-07-17

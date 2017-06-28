@@ -1,6 +1,6 @@
 ---
 title: Sketches
-subtitle: Four sketches from Diane Berg
+subtitle: 4 sketches from Diane Berg
 layout: default
 modal-id: 4
 date: 2014-07-15
